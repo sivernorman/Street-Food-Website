@@ -129,13 +129,15 @@ button{
     margin-right: 100px;
     padding-left:60px ;
 
+
 }
 .order{
     background-color: white;
-    width: 320px;
-    height: 180px;
-    padding: 15px;
-    border-radius: 0px 0px 50px 0px;
+    width: 100px;
+    height: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: 50px;
 }
 .item-brife{
     display: flex;
