@@ -121,34 +121,38 @@ button{
     color: #EAAB1E;
 }
 
-
-
-.Explore{
-    background-color: #EAF3E4;
-    margin-left: 100px;
-    margin-right: 100px;
-    padding-left:60px ;
-
-
+.explore{
+    background-color:#EAF3E4;
 }
-.order{
-    background-color: white;
-    width: 100px;
-    height: 100px;
-    padding-left: 50px;
-    padding-right: 50px;
-    margin-left: 50px;
+
+.explore > h2{
+text-align: center;
 }
-.item-brife{
+
+.explore > .menu{
     display: flex;
-    justify-content: space-between;
-    padding-top: 40px;
+    flex-wrap: wrap;
+    justify-content: center;
 }
-.item-brife img{
-    transform: translate(-110px,-30px);
+
+.explore > .menu > #item{
+    width: 30%;
+    display: inline-flex;
+    
 }
-.item-brife p{
-    width: 70%;
+
+#juice{
+    margin-left: 150px;
+   
+}
+#bug{
+    margin-left: -350px;
+    margin-bottom: -60px;
+}
+.us{
+    background-color:#FCF5DD ;
+    height: 200px;
+    
 }
 
 
