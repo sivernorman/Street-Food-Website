@@ -154,6 +154,43 @@ text-align: center;
     height: 200px;
     
 }
+.us{
+  text-align: center; 
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px; 
+}
+.bottom{
+ background-color: #F0FAEC;
+ margin-right: 85PX;
+ margin-right: 85px;
+ display: flex;
+ justify-content: space-between;
+ padding: 20px;
+ margin-top: 10px;   
+}
+.days{border-right: 2px dashed #76BC4D;
+width: 350px;
+}
+.numerics{
+    width: 300px;
+}
+.stream{
+    display: flex;
+    justify-content: space-between;
+}
+.deal{
+    color: #76BC4D;
+
+}
+.side{
+    text-align: start;
+    background-color:#b2d1a0 ;
+    padding-top: 200px;
+    
+    
+
+    
+}
 
 
 
