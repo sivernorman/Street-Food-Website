@@ -38,7 +38,7 @@ body{
 }
 .circle{
     width: 650px;
-    height: 650px;
+    height: px;
     border-radius: 50%;
     border: dashed 2px #6CB840;
     position: relative;
