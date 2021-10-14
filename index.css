@@ -149,7 +149,7 @@ text-align: center;
     margin-left: 150px;
    
 }
-#bug{
+/* #bug{
     margin-left: -350px;
     margin-bottom: -60px;
 }
@@ -157,7 +157,7 @@ text-align: center;
     background-color:#FCF5DD ;
     height: 200px;
     
-}
+} */
 .us{
   text-align: center; 
   font-family: Arial, Helvetica, sans-serif;
@@ -200,10 +200,18 @@ width: 350px;
     justify-content: space-between;
     width: 100%;
 }
-.collss{
+.collss1 .juice{
+    transform: translateY(-400px);
+}
+.glassdrinks{
     display: flex;
-    
-    
+
+}
+#juices{
+    transform: translateY(-70px);
+}
+#bug{
+    transform: translate(-350px, 0px);
 }
 
 
